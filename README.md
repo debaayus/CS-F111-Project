@@ -54,7 +54,7 @@ Contributions from team members:
 2. Prakarsh Mehrotra: Built the user interface (home page menu) and the booking status menu.
 3. Pranjal Panwar: Built the booking menu and added code for "wrong answer" cases.
 
-#############################################################################################################################################
+
 
 
 
