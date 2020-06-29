@@ -1,9 +1,6 @@
 Note: Original README submitted for evaluation.
-###########################################################################################################################################
-      
-        RAILWAY MANAGEMENT SYSTEM
 
-###########################################################################################################################################
+        RAILWAY MANAGEMENT SYSTEM
 
 Specifics:
 
@@ -13,10 +10,8 @@ Specifics:
 4. The code has been run and complied with the following gcc version:
    gcc (Ubuntu 5.4.0-6ubuntu1~16.04.12) 5.4.0 20160609
 
-NOTE[Very important]: Please make sure that the necessary files mentioned below are in the same directory as the main executable/C program file.
-   
-   
-###########################################################################################################################################
+NOTE [Very important]: Please make sure that the necessary files mentioned below are in the same directory as the main executable/C program file.
+
 
 Description of how to run the code and observe the output: 
 
@@ -43,7 +38,7 @@ NOTE: Since the above files are being edited in text mode, the administrator can
 
 7. On pressing 0 from the homepage menu, the user exits the program.
 
-#############################################################################################################################################
+
 
 Limitations:
 
@@ -52,8 +47,6 @@ Limitations:
 2. Also, during the cancellation process, the user must ensure that they enter both the first name and the last name. Leaving a field blank is detrimental to the running of the program.
 
 
-
-#############################################################################################################################################
  
 Contributions from team members:
 
